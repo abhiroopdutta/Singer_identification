@@ -5,6 +5,6 @@ lib/
 lib64
 share/
 pyvenv.cfg
-project/.ipynb_checkpoints
+project/.ipynb_checkpoints/
 project/Untitled.ipynb
 project/test.m4a
