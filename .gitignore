@@ -8,3 +8,4 @@ pyvenv.cfg
 project/.ipynb_checkpoints/
 project/Untitled.ipynb
 project/audio_files/
+project/trained_models/
